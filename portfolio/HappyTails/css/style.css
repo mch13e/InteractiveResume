@@ -1,0 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Varela+Round|Open+Sans:400,300,600,400italic,700);
+
+body {
+    width: 100%;
+    height: 100%;
+	font-weight: 400;
+    color: #888;
+	font-size: 18px;
+	line-height: 1.6em;
+    background-color: #fff;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+h1,
+h2{
+    margin: 0 0 30px;
+    font-family: 'Valera Round', sans-serif;
+    font-weight: 400;
+    color: #4d2958;
+    font-size: 50px;
+    padding-top: 20px;
+    text-align: center;
+    line-height: 1em;
+}
+h3{
+   font-family: 'Valera Round', sans-serif;
+    font-weight: 400;
+    color: #4d2958;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px 0px 40px 0px;
+}
+p{
+    font-family: 'Varela Round', sans-serif;
+}
+a{
+    text-decoration: none;
+    
+}
+a{ color: #FCAC45;}
+a:hover,
+a:focus{
+	text-decoration: none;
+	color: #5CD6B7;
+    font-weight: bold;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main-content{
+    height: 100%;
+    float: left;
+    background: #f8f8f8;
+    width: 100%;
+    margin: 0 0 50;
+    padding: 20px 60px 40px 60px;
+}
+
+.aside{
+    height: 100%;
+    float: left;
+    width: 100%;
+}
+.wrapper, html, body{
+    height: 100%;
+}
+.container {
+    margin: 20 20 20 20;
+}

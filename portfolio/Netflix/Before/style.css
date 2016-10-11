@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document created by Ken Baldauf (edited by Mary Hart), January 26, 2011 updated August 2014*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.6em;
+	color: #FFF;
+	background-color: #75695E;
+	padding: 20px 60px;
+}
+
+/* basic text styles ----------------------------  */
+p, li, td {
+	letter-spacing: .15em;
+	color: #FFF;
+}
+h1 {
+	font-size: 26px;
+	padding: 4px;
+	font-variant: small-caps;
+	letter-spacing: 0.4em;
+	line-height: 2.2em;
+}
+h2 {
+	font-size: 22px;
+	padding: 7px;
+	font-variant: small-caps;
+	letter-spacing: 0.4em;
+	background-color: #610E19;
+}
+h3 {
+	font-size: 18px;
+	letter-spacing: 0.4em;
+	border-bottom-width: 1px;
+	border-bottom-style: inset;
+	border-bottom-color: #9B9744;
+	padding: 4px 0;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+/* link styles ---------------------------- */
+a:link,
+a:visited {
+	font-weight: bold;
+	color: #610E19;
+	text-decoration: none;
+}
+a:hover {
+	color: #B9090B;
+}
+
+/* list styles ----------------------------- */
+ul li {
+	/*list-style-image: url(images/star.png);*/
+	margin-left: 10px;
+}
+ol {
+	margin-left: 10px;
+}
+
+/* table styles -------------------------------------- */
+table {
+	border: solid #610E19 2px;
+}
+td {
+	padding: 6px;
+	border: solid #610E19 1px;
+	background-color: #B9090B;
+}
+th {
+	font-weight: bold;
+	background-color: #B9090B;
+	text-align: center;
+	padding: 6px;
+	border: solid #610E19 2px;
+}
+
+/* border styles ------------------------------------ */
+hr {
+	border: solid #610E19 2px;
+}
+
+img {
+	border: solid #B9090B 2px;
+
+}
+iframe {
+	border: solid #B9090B 1px;
+	padding: 3px;
+	margin: 6px;
+}
+
+
