@@ -1,0 +1,42 @@
+
+a,a:hover {
+	color: #4d2958;
+}
+
+.intro .page-scroll a:hover {
+	color: #5CD6B7;
+}
+
+.icon:hover .fa{
+	color: #5CD6B7;
+}
+
+ul.nav li a:hover {
+	color: #5CD6B7;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #5CD6B7;
+}
+
+.bg-skin {
+	background: #4d2958;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #5CD6B7;
+}
+
+footer {
+    background: url(../img/mountain2.jpg) no-repeat top center;
+	color: #4d2958;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #f8f8f8;
+  border-color: #5CD6B7;
+}
+
+
